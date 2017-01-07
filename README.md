@@ -1,4 +1,4 @@
-# [KillerApp](https://team-heat-killer-app.herokuapp.com/)
+# [Dreamstime](https://team-heat-killer-app.herokuapp.com/)
 
 ![image](./src/assets/screenshot14.png)
 
